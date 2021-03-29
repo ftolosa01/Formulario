@@ -1,7 +1,16 @@
-#body{
+body{
     margin: 0;
     background-color: lightblue;
+    margin-top: 25px;
 }
-#div{
-    margin-left: center;
+div{
+    margin-left: 32%;
+    max-width:   25%;
+}
+label{
+    width: 500px;
+    height: 10px;
+}
+input{
+    width: 500px;
 }
